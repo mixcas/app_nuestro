@@ -1,0 +1,23 @@
+{
+  "name": "Nuestro",
+  "version": "0.0.0",
+  "authors": [
+    "Carlos Solares (nuestro) <carlos.solares@nuestro.mx>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "homepage": "nuestro.mx",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ratchet": "~2.0.2",
+    "angular": "~1.2.17"
+  }
+}
